@@ -7,3 +7,5 @@ I also designed and 3D printed the head, back, and tail structures. To save weig
   
   The bird weights about 30g with a 150mah battery.
 ![image](https://user-images.githubusercontent.com/67074873/218229234-b42b2acb-0d1f-4919-a619-0129a36e3dc2.png)
+![image](https://user-images.githubusercontent.com/67074873/218269231-d32f90b9-ae54-4584-a401-2bf7c9bfd617.png)
+![image](https://user-images.githubusercontent.com/67074873/218269265-bc07da6c-8d07-4b9e-b7d4-1eae7bc4cb9c.png)
