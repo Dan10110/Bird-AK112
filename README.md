@@ -11,6 +11,6 @@ I also designed and 3D printed the head, back, and tail structures. To save weig
 ![image](https://user-images.githubusercontent.com/67074873/218269265-bc07da6c-8d07-4b9e-b7d4-1eae7bc4cb9c.png)
   
   # A note about flying the bird:
-  I have tried using delaytime from 120ms to 70ms. The best flying one is 90ms. I also found that full flapping amptitude is not only energy inefficient, it doesn't fly well either. If you are set to full amplitude, the bird is very difficult to control. When I dial back to about mid-stick, the bird is much more controllable. When I launch the bird, I don't flay the wings yet. I do that after the launch otherwise there is no much drag. Also, do thelaunch horizontally.
+  I have tried using delaytime from 120ms to 70ms. The best flying one is 90ms. If you found controlling the bird frustrating, here is the suggestion. I found that full flapping amptitude is not only energy inefficient, it doesn't fly well either. If you are set to full amplitude at launch, the bird is very difficult to control. When I dial back to about mid-stick, the bird is much more controllable. When I launch the bird, I don't flap the wings yet. I do that after the launch otherwise there is no much drag. Also, do the launch horizontally.
     
 I found elevator control is very sensitive and aileron not sensitive. I guess it depends somewhat on the CG. My battery is all the way at the back and the bird glides very well. So, I use exponetial function in my transmitter to counter the sensitivity issue. 
